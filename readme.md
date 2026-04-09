@@ -61,3 +61,18 @@ We support two ways to generate outputs:
 ### Utilities
 - `utils/`
   - Helper code for data processing, prompting, model calling, plotting, and other utilities
+
+## Citation
+
+```
+@misc{tu2026longreasoningchainsinfluence,
+      title={How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality}, 
+      author={Minzhu Tu and Shiyu Ni and Keping Bi},
+      year={2026},
+      eprint={2604.06756},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.06756}, 
+}
+```
+
